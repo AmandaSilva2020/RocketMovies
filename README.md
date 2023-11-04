@@ -1,4 +1,4 @@
-# My Movie List
+# RocketMovies
 
 Neste desafio da trilha Explorer da Rocketseat o objetivo foi criar o front e o back-end de uma aplicação
 
